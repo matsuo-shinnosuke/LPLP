@@ -25,7 +25,7 @@ $ python src/make_dataset.py --dataset='cifar10' --num_classes=10 --num_instance
 
 ## Training & Test
 ```
-$ python src/main.py --dataset='cifar10' --num_classes=10 --num_instances=32 --output_dir='result/'
+$ python src/main.py --dataset='cifar10' --num_classes=10 --num_instances=32 --output_path='result/'
 ```
 
 ## Arguments
