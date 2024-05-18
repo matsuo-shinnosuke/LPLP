@@ -29,7 +29,7 @@ $ python src/main.py --dataset='cifar10' --num_classes=10 --num_instances=32 --o
 ```
 
 ## Arguments
-You can set up any parameters at `arguments.py`
+You can set up any parameters at `config.py`
 
 ## Citation
 If you find this repository helpful, please consider citing:
