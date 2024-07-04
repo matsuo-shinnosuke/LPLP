@@ -38,6 +38,6 @@ If you find this repository helpful, please consider citing:
   title = {Learning from Partial Label Proportions for Whole Slide Image Segmentation},
   author = {Shinnosuke Matsuo and Daiki Suehiro and Seiichi Uchida and Hiroaki Ito and Kazuhiro Terada and Akihiko Yoshizawa and Ryoma Bise},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  year = {202４},
+  year = {2024},
 }
 ```
